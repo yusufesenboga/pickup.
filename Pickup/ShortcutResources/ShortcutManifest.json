@@ -1,0 +1,13 @@
+{
+  "bundleIdentifier": "com.yusufesenboga.pickup",
+  "teamIdentifier": "E3FG37H8X3",
+  "waitSeconds": 50,
+  "files": {
+    "Pickup Session.shortcut": "8cbc5219e14eb8390182eb0bd4182022d140fc29cb19914f319ab959495455a9",
+    "Pickup End Session.shortcut": "71b3c99c4c70a158c599b248239b6bde0d4f58683a8e1495f4bae9bcb712fa28"
+  },
+  "installURLs": {
+    "Pickup Session.shortcut": "https://www.icloud.com/shortcuts/04cd0a0baa78465abd1b230b81349604",
+    "Pickup End Session.shortcut": "https://www.icloud.com/shortcuts/ee261535fae8450d81551e973cb045cf"
+  }
+}

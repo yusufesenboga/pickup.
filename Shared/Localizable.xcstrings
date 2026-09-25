@@ -1,0 +1,3187 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "–" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "–"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ a day vs your %@ average" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ a day vs your %2$@ average"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "%d min" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d min"
+          }
+        }
+      }
+    },
+    "%d of 6 steps complete" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d of 6 steps complete"
+          }
+        }
+      }
+    },
+    "%d seconds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d seconds"
+          }
+        }
+      }
+    },
+    "%d sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d sessions"
+          }
+        }
+      }
+    },
+    "%lld hours" : {
+
+    },
+    "%lld min" : {
+
+    },
+    "%lld minutes" : {
+
+    },
+    "%lld websites selected" : {
+
+    },
+    "%lld%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld%2$@"
+          }
+        }
+      }
+    },
+    "%lld%@ day streak" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld%2$@ day streak"
+          }
+        }
+      }
+    },
+    "0 seconds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 seconds"
+          }
+        }
+      }
+    },
+    "0–5" : {
+
+    },
+    "1B2019" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1B2019"
+          }
+        }
+      }
+    },
+    "5–10" : {
+
+    },
+    "7DD3FC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7DD3FC"
+          }
+        }
+      }
+    },
+    "10–20" : {
+
+    },
+    "20+" : {
+
+    },
+    "171C15" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "171C15"
+          }
+        }
+      }
+    },
+    "10130F" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10130F"
+          }
+        }
+      }
+    },
+    "A few minutes of setup. A gentler nudge every time you pick up your phone." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A few minutes of setup. A gentler nudge every time you pick up your phone."
+          }
+        }
+      }
+    },
+    "A fresh start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A fresh start"
+          }
+        }
+      }
+    },
+    "a little help here" : {
+
+    },
+    "A little more\naware." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little more\naware."
+          }
+        }
+      }
+    },
+    "A Start event just arrived, so this End was ignored to protect app switching. Wait a few seconds and try End again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Start event just arrived, so this End was ignored to protect app switching. Wait a few seconds and try End again."
+          }
+        }
+      }
+    },
+    "AAB3A4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AAB3A4"
+          }
+        }
+      }
+    },
+    "About" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        }
+      }
+    },
+    "Accent color" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accent color"
+          }
+        }
+      }
+    },
+    "Access granted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access granted"
+          }
+        }
+      }
+    },
+    "Active" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active"
+          }
+        }
+      }
+    },
+    "Add App-Closed Automation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add App-Closed Automation"
+          }
+        }
+      }
+    },
+    "Add App-Opened Automation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add App-Opened Automation"
+          }
+        }
+      }
+    },
+    "Add End Shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add End Shortcut"
+          }
+        }
+      }
+    },
+    "Add Pickup: End Session directly. No Wait action." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Pickup: End Session directly. No Wait action."
+          }
+        }
+      }
+    },
+    "Add Run Shortcut → Pickup End Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Run Shortcut → Pickup End Session"
+          }
+        }
+      }
+    },
+    "Add Run Shortcut → Pickup Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Run Shortcut → Pickup Session"
+          }
+        }
+      }
+    },
+    "Add Start Shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Start Shortcut"
+          }
+        }
+      }
+    },
+    "Add the ready-made shortcuts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add the ready-made shortcuts"
+          }
+        }
+      }
+    },
+    "Advanced" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced"
+          }
+        }
+      }
+    },
+    "Allow Screen Time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Screen Time"
+          }
+        }
+      }
+    },
+    "APP ACTIVITY" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APP ACTIVITY"
+          }
+        }
+      }
+    },
+    "App names, optional (e.g. Instagram, YouTube)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App names, optional (e.g. Instagram, YouTube)"
+          }
+        }
+      }
+    },
+    "Apple has not reported usage yet, or today's total is zero." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple has not reported usage yet, or today's total is zero."
+          }
+        }
+      }
+    },
+    "apple makes you tap “continue”. don’t overthink it." : {
+
+    },
+    "Apple may ask follow-up questions. Check the generated actions before enabling; do not also enable another automation for the same event." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple may ask follow-up questions. Check the generated actions before enabling; do not also enable another automation for the same event."
+          }
+        }
+      }
+    },
+    "Apple may omit actions even when its summary describes them. Open Edit and check the actual trigger and Run Shortcut action before enabling. Do not enable another automation for the same event." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple may omit actions even when its summary describes them. Open Edit and check the actual trigger and Run Shortcut action before enabling. Do not enable another automation for the same event."
+          }
+        }
+      }
+    },
+    "Apple may take a few seconds to load or briefly show zeros. If the report stays blank, tap Refresh." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple may take a few seconds to load or briefly show zeros. If the report stays blank, tap Refresh."
+          }
+        }
+      }
+    },
+    "Apple's totals give your logged sessions context. Access is optional; the timer works either way." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple's totals give your logged sessions context. Access is optional; the timer works either way."
+          }
+        }
+      }
+    },
+    "Apps with usage during the hour(s) of this session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps with usage during the hour(s) of this session"
+          }
+        }
+      }
+    },
+    "Apricot" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apricot"
+          }
+        }
+      }
+    },
+    "arrow.clockwise" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "arrow.clockwise"
+          }
+        }
+      }
+    },
+    "Ask me during setup which installed apps to track. Use that selection in the App automation trigger." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ask me during setup which installed apps to track. Use that selection in the App automation trigger."
+          }
+        }
+      }
+    },
+    "B5F36C" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "B5F36C"
+          }
+        }
+      }
+    },
+    "back" : {
+
+    },
+    "back every month for %@." : {
+
+    },
+    "bolt.fill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bolt.fill"
+          }
+        }
+      }
+    },
+    "Both shortcuts are in my library" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Both shortcuts are in my library"
+          }
+        }
+      }
+    },
+    "brain stage: %@" : {
+
+    },
+    "brain: %@" : {
+
+    },
+    "cancel" : {
+
+    },
+    "CFBundleShortVersionString" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CFBundleShortVersionString"
+          }
+        }
+      }
+    },
+    "chart.bar.doc.horizontal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chart.bar.doc.horizontal"
+          }
+        }
+      }
+    },
+    "chart.bar.xaxis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chart.bar.xaxis"
+          }
+        }
+      }
+    },
+    "checkmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "checkmark"
+          }
+        }
+      }
+    },
+    "checkmark.circle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "checkmark.circle"
+          }
+        }
+      }
+    },
+    "choose apps" : {
+
+    },
+    "choose apps or whole categories in Apple’s list. one selection covers your daily goal." : {
+
+    },
+    "Choose Run Shortcut → Pickup Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Run Shortcut → Pickup Session"
+          }
+        }
+      }
+    },
+    "Choose the same apps → Is Closed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose the same apps → Is Closed"
+          }
+        }
+      }
+    },
+    "Choose your time-sink apps → Is Opened" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your time-sink apps → Is Opened"
+          }
+        }
+      }
+    },
+    "circle.fill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "circle.fill"
+          }
+        }
+      }
+    },
+    "circle.lefthalf.filled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "circle.lefthalf.filled"
+          }
+        }
+      }
+    },
+    "Clear all for this day" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear all for this day"
+          }
+        }
+      }
+    },
+    "clock.arrow.circlepath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "clock.arrow.circlepath"
+          }
+        }
+      }
+    },
+    "clock.badge.questionmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "clock.badge.questionmark"
+          }
+        }
+      }
+    },
+    "close preview" : {
+
+    },
+    "Close your phone session and immediately dismiss its Live Activity." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close your phone session and immediately dismiss its Live Activity."
+          }
+        }
+      }
+    },
+    "Closed · can resume briefly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closed · can resume briefly"
+          }
+        }
+      }
+    },
+    "Closed automation created" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closed automation created"
+          }
+        }
+      }
+    },
+    "Closed. Reopening a tracked app within the grace period resumes this session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closed. Reopening a tracked app within the grace period resumes this session."
+          }
+        }
+      }
+    },
+    "Closing a tracked app clears the Island immediately. Reopening within the grace period resumes the same session. Turning off the Island here ends the session completely." : {
+
+    },
+    "connect my shortcuts" : {
+
+    },
+    "connect screen time" : {
+
+    },
+    "Connect your shortcuts once. Your brain comes along for the scroll." : {
+
+    },
+    "connecting…" : {
+
+    },
+    "Copy Prompt & Open Shortcuts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Prompt & Open Shortcuts"
+          }
+        }
+      }
+    },
+    "Couldn't Open Shortcut" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't Open Shortcut"
+          }
+        }
+      }
+    },
+    "Create a shortcut named Pickup Session with these actions, in this order." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a shortcut named Pickup Session with these actions, in this order."
+          }
+        }
+      }
+    },
+    "Create an iOS 27 shortcut named Pickup Apps Closed with an App automation trigger that runs whenever ANY selected app Is Closed. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger add one Run Shortcut action selecting the existing shortcut Pickup End Session from my library. Do not add Wait, Start Session, Open App, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup End Session is unavailable, tell me to add it from Step 3 in Pickup before continuing. Do not substitute other actions. Show me the resulting trigger and action so I can review and enable them." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create an iOS 27 shortcut named Pickup Apps Closed with an App automation trigger that runs whenever ANY selected app Is Closed. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger add one Run Shortcut action selecting the existing shortcut Pickup End Session from my library. Do not add Wait, Start Session, Open App, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup End Session is unavailable, tell me to add it from Step 3 in Pickup before continuing. Do not substitute other actions. Show me the resulting trigger and action so I can review and enable them."
+          }
+        }
+      }
+    },
+    "Create an iOS 27 shortcut named Pickup Apps Closed with an App automation trigger that runs whenever ANY selected app Is Closed. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger add only Pickup: End Session, provided by the installed Pickup app. Do not add Wait, Start Session, Open App, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup actions are unavailable, tell me to open Pickup once and retry instead of substituting other actions. Show me the resulting trigger and action so I can review and enable them." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create an iOS 27 shortcut named Pickup Apps Closed with an App automation trigger that runs whenever ANY selected app Is Closed. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger add only Pickup: End Session, provided by the installed Pickup app. Do not add Wait, Start Session, Open App, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup actions are unavailable, tell me to open Pickup once and retry instead of substituting other actions. Show me the resulting trigger and action so I can review and enable them."
+          }
+        }
+      }
+    },
+    "Create an iOS 27 shortcut named Pickup Apps Opened with an App automation trigger that runs whenever ANY selected app Is Opened. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger, add exactly these actions in order: Pickup: Start Session; Wait 50 seconds; Pickup: Show Timer. These are actions provided by the installed Pickup app. Do not add Open App, End Session, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup actions are unavailable, tell me to open Pickup once and retry instead of substituting other actions. Show me the resulting trigger and actions so I can review and enable them." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create an iOS 27 shortcut named Pickup Apps Opened with an App automation trigger that runs whenever ANY selected app Is Opened. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger, add exactly these actions in order: Pickup: Start Session; Wait 50 seconds; Pickup: Show Timer. These are actions provided by the installed Pickup app. Do not add Open App, End Session, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup actions are unavailable, tell me to open Pickup once and retry instead of substituting other actions. Show me the resulting trigger and actions so I can review and enable them."
+          }
+        }
+      }
+    },
+    "Create an iOS 27 shortcut named Pickup Apps Opened with an App automation trigger that runs whenever ANY selected app Is Opened. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger, add one Run Shortcut action selecting the existing shortcut Pickup Session from my library. That shortcut already contains Start Session, Wait 50 seconds, and Show Timer. Do not add Open App, End Session, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup Session is unavailable, tell me to add it from Step 3 in Pickup before continuing. Do not substitute other actions. Show me the resulting trigger and actions so I can review and enable them." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create an iOS 27 shortcut named Pickup Apps Opened with an App automation trigger that runs whenever ANY selected app Is Opened. %@ Set Run Immediately, without asking before each run, and turn Notify When Run off if available. After the trigger, add one Run Shortcut action selecting the existing shortcut Pickup Session from my library. That shortcut already contains Start Session, Wait 50 seconds, and Show Timer. Do not add Open App, End Session, a repeating loop, or a second trigger. App selection is a setup choice, not an Ask Each Time action. If Pickup Session is unavailable, tell me to add it from Step 3 in Pickup before continuing. Do not substitute other actions. Show me the resulting trigger and actions so I can review and enable them."
+          }
+        }
+      }
+    },
+    "Create one more automation with the same apps. Apple requires choosing that list again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create one more automation with the same apps. Apple requires choosing that list again."
+          }
+        }
+      }
+    },
+    "Create Pickup End Session with just drop it.: End Session. Search for drop it. when adding actions; Wait is under Scripting." : {
+
+    },
+    "Create Pickup End Session with just Pickup: End Session. Search for Pickup when adding actions; Wait is under Scripting." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Pickup End Session with just Pickup: End Session. Search for Pickup when adding actions; Wait is under Scripting."
+          }
+        }
+      }
+    },
+    "Current session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current session"
+          }
+        }
+      }
+    },
+    "D8B4FE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D8B4FE"
+          }
+        }
+      }
+    },
+    "daily limit, all apps combined" : {
+
+    },
+    "daily limit, all tracked apps" : {
+
+    },
+    "DAILY OVERVIEW" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DAILY OVERVIEW"
+          }
+        }
+      }
+    },
+    "dailySummary" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dailySummary"
+          }
+        }
+      }
+    },
+    "Day actions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day actions"
+          }
+        }
+      }
+    },
+    "day streak" : {
+
+    },
+    "days under your current goal" : {
+
+    },
+    "Delete all data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete all data"
+          }
+        }
+      }
+    },
+    "Delete all drop it. data?" : {
+
+    },
+    "Delete all Pickup data?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete all Pickup data?"
+          }
+        }
+      }
+    },
+    "Delete sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete sessions"
+          }
+        }
+      }
+    },
+    "Delete this day's sessions?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete this day's sessions?"
+          }
+        }
+      }
+    },
+    "done" : {
+
+    },
+    "drop it." : {
+
+    },
+    "edit tracked apps" : {
+
+    },
+    "ellipsis.circle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ellipsis.circle"
+          }
+        }
+      }
+    },
+    "End" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End"
+          }
+        }
+      }
+    },
+    "End Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End Session"
+          }
+        }
+      }
+    },
+    "End Session ends the session immediately, with no Wait action." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End Session ends the session immediately, with no Wait action."
+          }
+        }
+      }
+    },
+    "Ended" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ended"
+          }
+        }
+      }
+    },
+    "Every session stays here until you delete it, including short ones." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every session stays here until you delete it, including short ones."
+          }
+        }
+      }
+    },
+    "Export sessions as CSV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export sessions as CSV"
+          }
+        }
+      }
+    },
+    "Export sessions as JSON" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export sessions as JSON"
+          }
+        }
+      }
+    },
+    "F4F1E8" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F4F1E8"
+          }
+        }
+      }
+    },
+    "F9A8D4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F9A8D4"
+          }
+        }
+      }
+    },
+    "FDBA74" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FDBA74"
+          }
+        }
+      }
+    },
+    "File and prompt fallback" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File and prompt fallback"
+          }
+        }
+      }
+    },
+    "Files and manual setup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Files and manual setup"
+          }
+        }
+      }
+    },
+    "First pickup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First pickup"
+          }
+        }
+      }
+    },
+    "give your brain\na home." : {
+
+    },
+    "goal" : {
+
+    },
+    "got it" : {
+
+    },
+    "Grace period" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grace period"
+          }
+        }
+      }
+    },
+    "History" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "Hourly Screen Time buckets may include activity before or after this session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hourly Screen Time buckets may include activity before or after this session."
+          }
+        }
+      }
+    },
+    "how live updates work" : {
+
+    },
+    "I confirmed a session appeared" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I confirmed a session appeared"
+          }
+        }
+      }
+    },
+    "i’ll connect it later" : {
+
+    },
+    "If a link won't open, share the prepared file to Shortcuts. If Shortcuts isn't listed, save it to Files and open it there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If a link won't open, share the prepared file to Shortcuts. If Shortcuts isn't listed, save it to Files and open it there."
+          }
+        }
+      }
+    },
+    "In Shortcuts, tap +, Add Action, then search for Pickup. The Wait action is under Scripting." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Shortcuts, tap +, Add Action, then search for Pickup. The Wait action is under Scripting."
+          }
+        }
+      }
+    },
+    "increase daily limit by 15 minutes" : {
+
+    },
+    "info.circle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "info.circle"
+          }
+        }
+      }
+    },
+    "Install the shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install the shortcut"
+          }
+        }
+      }
+    },
+    "instead, i’ll spend it on" : {
+
+    },
+    "iOS controls where it appears. Check the Island or Lock Screen; press and hold the Island to expand it." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS controls where it appears. Check the Island or Lock Screen; press and hold the Island to expand it."
+          }
+        }
+      }
+    },
+    "iphone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iphone"
+          }
+        }
+      }
+    },
+    "island" : {
+
+    },
+    "island roasts" : {
+
+    },
+    "it lives in your Dynamic Island. the longer you scroll, the worse it gets. tap one to preview it up top." : {
+
+    },
+    "Ivory" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ivory"
+          }
+        }
+      }
+    },
+    "Keep a small reminder in the Dynamic Island, or on the Lock Screen on other iPhones." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep a small reminder in the Dynamic Island, or on the Lock Screen on other iPhones."
+          }
+        }
+      }
+    },
+    "Last End event" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last End event"
+          }
+        }
+      }
+    },
+    "Last Start event" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last Start event"
+          }
+        }
+      }
+    },
+    "Lavender" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavender"
+          }
+        }
+      }
+    },
+    "leaf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "leaf"
+          }
+        }
+      }
+    },
+    "let drop it see your screen time" : {
+
+    },
+    "let’s lock in" : {
+
+    },
+    "Library/Application Support" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Library/Application Support"
+          }
+        }
+      }
+    },
+    "Lime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lime"
+          }
+        }
+      }
+    },
+    "limit %@" : {
+
+    },
+    "Live Activities" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activities"
+          }
+        }
+      }
+    },
+    "Live Activities allowed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activities allowed"
+          }
+        }
+      }
+    },
+    "Live Activities are off" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activities are off"
+          }
+        }
+      }
+    },
+    "Live Activity couldn't start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activity couldn't start"
+          }
+        }
+      }
+    },
+    "Live Activity is running" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activity is running"
+          }
+        }
+      }
+    },
+    "lock screen preview" : {
+
+    },
+    "Logged sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logged sessions"
+          }
+        }
+      }
+    },
+    "Make the invisible\nvisible." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make the invisible\nvisible."
+          }
+        }
+      }
+    },
+    "Make the invisible\\nvisible." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make the invisible\\nvisible."
+          }
+        }
+      }
+    },
+    "Manual fallback: create Pickup Session with these actions:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manual fallback: create Pickup Session with these actions:"
+          }
+        }
+      }
+    },
+    "Manual setup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manual setup"
+          }
+        }
+      }
+    },
+    "meet your brain" : {
+
+    },
+    "Messages and Camera are not tracked unless you add them to both automations. The daily summary shows untracked time. Pickup does not detect unlocks or automatically know when you lock the phone." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Messages and Camera are not tracked unless you add them to both automations. The daily summary shows untracked time. Pickup does not detect unlocks or automatically know when you lock the phone."
+          }
+        }
+      }
+    },
+    "Minimum visible session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum visible session"
+          }
+        }
+      }
+    },
+    "more room for %@." : {
+
+    },
+    "next" : {
+
+    },
+    "No accounts, servers, analytics, or cloud sync. Screen Time stays inside Apple's report extension. Exporting is always your choice." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No accounts, servers, analytics, or cloud sync. Screen Time stays inside Apple's report extension. Exporting is always your choice."
+          }
+        }
+      }
+    },
+    "No app activity reported yet. Try refreshing after Screen Time updates." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No app activity reported yet. Try refreshing after Screen Time updates."
+          }
+        }
+      }
+    },
+    "no Close event has arrived yet. connect the App Closed shortcut to stop the Island automatically when you leave a tracked app." : {
+
+    },
+    "No Start event has arrived yet. Run the Start shortcut or use Test Dynamic Island above. Then open a tracked app to check the automation." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Start event has arrived yet. Run the Start shortcut or use Test Dynamic Island above. Then open a tracked app to check the automation."
+          }
+        }
+      }
+    },
+    "None" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "Not yet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not yet"
+          }
+        }
+      }
+    },
+    "Nothing leaves your phone." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing leaves your phone."
+          }
+        }
+      }
+    },
+    "nothing to roast yet. keep that energy." : {
+
+    },
+    "Now" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "One automation can cover all of your time-sink apps." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One automation can cover all of your time-sink apps."
+          }
+        }
+      }
+    },
+    "One automation covers several apps. Start with 3–5 you want to spend less time in." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One automation covers several apps. Start with 3–5 you want to spend less time in."
+          }
+        }
+      }
+    },
+    "Open a chosen app, stay there at least 10 seconds, then come back. Confirm a session appears below." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open a chosen app, stay there at least 10 seconds, then come back. Confirm a session appears below."
+          }
+        }
+      }
+    },
+    "Open Automation File" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Automation File"
+          }
+        }
+      }
+    },
+    "Open End Shortcut File" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open End Shortcut File"
+          }
+        }
+      }
+    },
+    "Open in Shortcuts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open in Shortcuts"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        }
+      }
+    },
+    "Open Shortcuts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Shortcuts"
+          }
+        }
+      }
+    },
+    "Open Start Shortcut File" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Start Shortcut File"
+          }
+        }
+      }
+    },
+    "Opened automation created" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opened automation created"
+          }
+        }
+      }
+    },
+    "Other (%d apps)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other (%d apps)"
+          }
+        }
+      }
+    },
+    "Pending end" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pending end"
+          }
+        }
+      }
+    },
+    "phone session" : {
+
+    },
+    "Phone session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phone session"
+          }
+        }
+      }
+    },
+    "phone session · drop it" : {
+
+    },
+    "pick your usual suspects" : {
+
+    },
+    "pickup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pickup"
+          }
+        }
+      }
+    },
+    "Pickup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup"
+          }
+        }
+      }
+    },
+    "PICKUP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PICKUP"
+          }
+        }
+      }
+    },
+    "Pickup needs your attention" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup needs your attention"
+          }
+        }
+      }
+    },
+    "Pickup-sessions.csv" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup-sessions.csv"
+          }
+        }
+      }
+    },
+    "Pickup-sessions.json" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup-sessions.json"
+          }
+        }
+      }
+    },
+    "Pickup: End Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup: End Session"
+          }
+        }
+      }
+    },
+    "Pickup: Show Timer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup: Show Timer"
+          }
+        }
+      }
+    },
+    "Pickup: Start Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup: Start Session"
+          }
+        }
+      }
+    },
+    "Pickup.store" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickup.store"
+          }
+        }
+      }
+    },
+    "PickupGlyph" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickupGlyph"
+          }
+        }
+      }
+    },
+    "Pickups (Apple)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickups (Apple)"
+          }
+        }
+      }
+    },
+    "play.fill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "play.fill"
+          }
+        }
+      }
+    },
+    "preview on lock screen" : {
+
+    },
+    "Preview. %@. %@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preview. %1$@. %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "Prompt copied. Paste it into Describe a Shortcut, then review the selected apps and enable the automation. Copying does not complete setup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt copied. Paste it into Describe a Shortcut, then review the selected apps and enable the automation. Copying does not complete setup."
+          }
+        }
+      }
+    },
+    "Read the prompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read the prompt"
+          }
+        }
+      }
+    },
+    "Ready for Live Activities" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready for Live Activities"
+          }
+        }
+      }
+    },
+    "ready for the real thing?" : {
+
+    },
+    "reduce daily limit by 15 minutes" : {
+
+    },
+    "refresh live island" : {
+
+    },
+    "Refresh report" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refresh report"
+          }
+        }
+      }
+    },
+    "Reopening within the grace period resumes the same session. Debounce ignores Close events just after an Open; very short visits may therefore remain active." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reopening within the grace period resumes the same session. Debounce ignores Close events just after an Open; very short visits may therefore remain active."
+          }
+        }
+      }
+    },
+    "Reveal the elapsed time for your active phone session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reveal the elapsed time for your active phone session."
+          }
+        }
+      }
+    },
+    "Review the apps in Apple's preview and enable the automation. Use one Opened automation for your chosen apps." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review the apps in Apple's preview and enable the automation. Use one Opened automation for your chosen apps."
+          }
+        }
+      }
+    },
+    "Review the same app list, then enable the automation. Do not add a Wait action." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review the same app list, then enable the automation. Do not add a Wait action."
+          }
+        }
+      }
+    },
+    "Room to be present" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Room to be present"
+          }
+        }
+      }
+    },
+    "Rose" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rose"
+          }
+        }
+      }
+    },
+    "same brain. better boundaries." : {
+
+    },
+    "Screen Time (Apple)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Time (Apple)"
+          }
+        }
+      }
+    },
+    "Screen Time access" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Time access"
+          }
+        }
+      }
+    },
+    "Screen Time access needed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Time access needed"
+          }
+        }
+      }
+    },
+    "Screen Time access was not granted. Your timer and session log still work. You can retry here at any time." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Time access was not granted. Your timer and session log still work. You can retry here at any time."
+          }
+        }
+      }
+    },
+    "Screen Time goal report" : {
+
+    },
+    "screen time today" : {
+
+    },
+    "Screen Time today report" : {
+
+    },
+    "See Apple's totals and app activity here. Your timer and session log work without this access." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See Apple's totals and app activity here. Your timer and session log work without this access."
+          }
+        }
+      }
+    },
+    "Select Pickup End Session, or add Run Shortcut → Pickup End Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Pickup End Session, or add Run Shortcut → Pickup End Session"
+          }
+        }
+      }
+    },
+    "Select Pickup Session, or add Run Shortcut → Pickup Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Pickup Session, or add Run Shortcut → Pickup Session"
+          }
+        }
+      }
+    },
+    "Select Run Immediately. Turn Notify When Run off if shown." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Run Immediately. Turn Notify When Run off if shown."
+          }
+        }
+      }
+    },
+    "Select several apps together and choose Is Opened" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select several apps together and choose Is Opened"
+          }
+        }
+      }
+    },
+    "Select the same apps together and choose Is Closed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select the same apps together and choose Is Closed"
+          }
+        }
+      }
+    },
+    "session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "session"
+          }
+        }
+      }
+    },
+    "Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session"
+          }
+        }
+      }
+    },
+    "session controls" : {
+
+    },
+    "session history" : {
+
+    },
+    "SESSION IN PROGRESS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SESSION IN PROGRESS"
+          }
+        }
+      }
+    },
+    "Session log" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session log"
+          }
+        }
+      }
+    },
+    "Session unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session unavailable"
+          }
+        }
+      }
+    },
+    "sessionApps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sessionApps"
+          }
+        }
+      }
+    },
+    "Sessions still save. Enable Live Activities in Settings, or reopen a tracked app to retry." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessions still save. Enable Live Activities in Settings, or reopen a tracked app to retry."
+          }
+        }
+      }
+    },
+    "set up automatic stopping" : {
+
+    },
+    "Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "settings and setup" : {
+
+    },
+    "Setup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup"
+          }
+        }
+      }
+    },
+    "SetupAutomationClosed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupAutomationClosed"
+          }
+        }
+      }
+    },
+    "SetupAutomationOpened" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupAutomationOpened"
+          }
+        }
+      }
+    },
+    "SetupLiveActivities" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupLiveActivities"
+          }
+        }
+      }
+    },
+    "SetupScreenTime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupScreenTime"
+          }
+        }
+      }
+    },
+    "SetupShortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupShortcut"
+          }
+        }
+      }
+    },
+    "SetupTest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SetupTest"
+          }
+        }
+      }
+    },
+    "Share the file to Shortcuts, or save it to Files and open it there." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share the file to Shortcuts, or save it to Files and open it there."
+          }
+        }
+      }
+    },
+    "Shared storage is unavailable. Check the App Group and signing capabilities in Xcode, then reopen Pickup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared storage is unavailable. Check the App Group and signing capabilities in Xcode, then reopen Pickup."
+          }
+        }
+      }
+    },
+    "Short sessions stay saved. Show them on Today with the toggle, or see them all in History." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Short sessions stay saved. Show them on Today with the toggle, or see them all in History."
+          }
+        }
+      }
+    },
+    "Shortcut created" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut created"
+          }
+        }
+      }
+    },
+    "shortcuts & island setup" : {
+
+    },
+    "Shortcuts → Automation → + → App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcuts → Automation → + → App"
+          }
+        }
+      }
+    },
+    "Shortcuts → new shortcut → editor → Automation → App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcuts → new shortcut → editor → Automation → App"
+          }
+        }
+      }
+    },
+    "shortcuts://" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shortcuts://"
+          }
+        }
+      }
+    },
+    "Show short sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show short sessions"
+          }
+        }
+      }
+    },
+    "Show started time in expanded view" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show started time in expanded view"
+          }
+        }
+      }
+    },
+    "Show Timer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Timer"
+          }
+        }
+      }
+    },
+    "Show timer immediately" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show timer immediately"
+          }
+        }
+      }
+    },
+    "Show Timer Now" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Timer Now"
+          }
+        }
+      }
+    },
+    "Sky" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sky"
+          }
+        }
+      }
+    },
+    "slider.horizontal.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "slider.horizontal.3"
+          }
+        }
+      }
+    },
+    "Start or resume your phone session without opening Pickup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start or resume your phone session without opening Pickup."
+          }
+        }
+      }
+    },
+    "Start Session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Session"
+          }
+        }
+      }
+    },
+    "Start Session → Wait %d seconds → Show Timer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Session → Wait %d seconds → Show Timer"
+          }
+        }
+      }
+    },
+    "Start/end debounce" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start/end debounce"
+          }
+        }
+      }
+    },
+    "Started" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Started"
+          }
+        }
+      }
+    },
+    "Starts or resumes a real session and shows its timer immediately. Go to the Home Screen to check the Island; end the session when finished." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starts or resumes a real session and shows its timer immediately. Go to the Home Screen to check the Island; end the session when finished."
+          }
+        }
+      }
+    },
+    "Still going" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Still going"
+          }
+        }
+      }
+    },
+    "stop.fill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "stop.fill"
+          }
+        }
+      }
+    },
+    "sun.max" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sun.max"
+          }
+        }
+      }
+    },
+    "Take it for a spin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take it for a spin"
+          }
+        }
+      }
+    },
+    "tap a stage, then tap the island to expand it. connect your shortcuts to bring it along when you scroll." : {
+
+    },
+    "Tap Add Shortcut in Apple's preview. If these names are already in your library, keep your existing copies." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap Add Shortcut in Apple's preview. If these names are already in your library, keep your existing copies."
+          }
+        }
+      }
+    },
+    "Tap Choose and select the same apps together → Done → Is Closed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap Choose and select the same apps together → Done → Is Closed"
+          }
+        }
+      }
+    },
+    "Tap Choose and select your apps together → Done → Is Opened" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap Choose and select your apps together → Done → Is Opened"
+          }
+        }
+      }
+    },
+    "tap to go back" : {
+
+    },
+    "Test Dynamic Island" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Dynamic Island"
+          }
+        }
+      }
+    },
+    "The actions are already arranged. Add both shortcuts, then connect them to your apps below." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The actions are already arranged. Add both shortcuts, then connect them to your apps below."
+          }
+        }
+      }
+    },
+    "the app that bullies you off your phone. with love. kinda." : {
+
+    },
+    "the boring stuff" : {
+
+    },
+    "the culprits" : {
+
+    },
+    "The install link couldn't open. Use Files and manual setup below." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The install link couldn't open. Use Files and manual setup below."
+          }
+        }
+      }
+    },
+    "The install link couldn't open. Use the file fallback in this setup step." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The install link couldn't open. Use the file fallback in this setup step."
+          }
+        }
+      }
+    },
+    "The install link is not configured yet. Add the actions manually above." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The install link is not configured yet. Add the actions manually above."
+          }
+        }
+      }
+    },
+    "The Island appears only during a session. Screen Time access and installing shortcuts do not start one. Test it here before finishing automation setup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Island appears only during a session. Screen Time access and installing shortcuts do not start one. Test it here before finishing automation setup."
+          }
+        }
+      }
+    },
+    "The prepared shortcuts aren't available for this build. Use the manual setup below." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The prepared shortcuts aren't available for this build. Use the manual setup below."
+          }
+        }
+      }
+    },
+    "The session started, but iOS did not create its Live Activity. Check Pickup's Live Activities setting and try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The session started, but iOS did not create its Live Activity. Check Pickup's Live Activities setting and try again."
+          }
+        }
+      }
+    },
+    "The shared session snapshot is unavailable or incomplete for this day. Open Pickup and refresh." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The shared session snapshot is unavailable or incomplete for this day. Open Pickup and refresh."
+          }
+        }
+      }
+    },
+    "the timer keeps ticking on its own. the brain and roast refresh when a session action runs or you return here. automatic app-open and app-close tracking needs the shortcuts setup." : {
+
+    },
+    "The whole picture" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The whole picture"
+          }
+        }
+      }
+    },
+    "This cannot be undone. A session crossing midnight belongs to the day it started." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This cannot be undone. A session crossing midnight belongs to the day it started."
+          }
+        }
+      }
+    },
+    "This delay is a tutorial reference only. Change the Wait action in your shortcut to match. If Wait is unreliable, enable Show timer immediately." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This delay is a tutorial reference only. Change the Wait action in your shortcut to match. If Wait is unreliable, enable Show timer immediately."
+          }
+        }
+      }
+    },
+    "This permanently deletes sessions, resets settings and setup progress, and ends the Live Activity. Apple Screen Time and your Shortcuts automations are not deleted." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This permanently deletes sessions, resets settings and setup progress, and ends the Live Activity. Apple Screen Time and your Shortcuts automations are not deleted."
+          }
+        }
+      }
+    },
+    "This permanently deletes sessions, resets your goals, app choices, settings and setup progress, and ends the Live Activity. Apple Screen Time and your Shortcuts automations are not deleted." : {
+
+    },
+    "This session may have been deleted." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This session may have been deleted."
+          }
+        }
+      }
+    },
+    "time back" : {
+
+    },
+    "timer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timer"
+          }
+        }
+      }
+    },
+    "Timer reveal delay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timer reveal delay"
+          }
+        }
+      }
+    },
+    "timer settings & export" : {
+
+    },
+    "today" : {
+
+    },
+    "Today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "Today's sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's sessions"
+          }
+        }
+      }
+    },
+    "toggle compact and expanded preview" : {
+
+    },
+    "tracked apps" : {
+
+    },
+    "try my Dynamic Island" : {
+
+    },
+    "turn it on" : {
+
+    },
+    "turn off Dynamic Island" : {
+
+    },
+    "turning it on…" : {
+
+    },
+    "Unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unavailable"
+          }
+        }
+      }
+    },
+    "Unknown app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown app"
+          }
+        }
+      }
+    },
+    "Untracked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untracked"
+          }
+        }
+      }
+    },
+    "Untracked is an estimate: Apple's total minus logged time. Resumed sessions include the brief gap between apps." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untracked is an estimate: Apple's total minus logged time. Resumed sessions include the brief gap between apps."
+          }
+        }
+      }
+    },
+    "Use Describe a Shortcut to build the automation from a prepared prompt." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Describe a Shortcut to build the automation from a prepared prompt."
+          }
+        }
+      }
+    },
+    "Use exactly the same app selection as the opened automation." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use exactly the same app selection as the opened automation."
+          }
+        }
+      }
+    },
+    "Use exactly the same apps as my Pickup Apps Opened automation. If you cannot read that selection, ask me during setup to choose the same apps." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use exactly the same apps as my Pickup Apps Opened automation. If you cannot read that selection, ask me during setup to choose the same apps."
+          }
+        }
+      }
+    },
+    "Use the same app list for Opened and Closed. Leave this blank to choose during setup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the same app list for Opened and Closed. Leave this blank to choose during setup."
+          }
+        }
+      }
+    },
+    "Use the same apps as Opened so Pickup can end the session when you leave." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the same apps as Opened so Pickup can end the session when you leave."
+          }
+        }
+      }
+    },
+    "Use these installed apps in the trigger: %@. If a name is ambiguous or unavailable, ask me to resolve it during setup." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use these installed apps in the trigger: %@. If a name is ambiguous or unavailable, ask me to resolve it during setup."
+          }
+        }
+      }
+    },
+    "Version" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        }
+      }
+    },
+    "View session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View session"
+          }
+        }
+      }
+    },
+    "Wait %d seconds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wait %d seconds"
+          }
+        }
+      }
+    },
+    "Waiting for Screen Time…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waiting for Screen Time…"
+          }
+        }
+      }
+    },
+    "waveform.path" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "waveform.path"
+          }
+        }
+      }
+    },
+    "we only see how long you’re on apps. not your dms. we literally could not care less about your dms." : {
+
+    },
+    "what the island says at each minute mark. tap to preview." : {
+
+    },
+    "When your apps close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When your apps close"
+          }
+        }
+      }
+    },
+    "When your apps open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When your apps open"
+          }
+        }
+      }
+    },
+    "which apps are cooking you?" : {
+
+    },
+    "You don't need every app or a separate automation per app. Check each app you want in the same picker." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don't need every app or a separate automation per app. Check each app you want in the same picker."
+          }
+        }
+      }
+    },
+    "your apps will show up when Screen Time has data. pull down to check again." : {
+
+    },
+    "your brain is live" : {
+
+    },
+    "your brain on the island" : {
+
+    },
+    "Your data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your data"
+          }
+        }
+      }
+    },
+    "your estimate appears after 7 complete days of Screen Time data." : {
+
+    },
+    "your goal" : {
+
+    },
+    "Your Island" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Island"
+          }
+        }
+      }
+    },
+    "Your phone time, in plain sight." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your phone time, in plain sight."
+          }
+        }
+      }
+    },
+    "Your preferred delay is %d seconds. After adding, edit the Start shortcut's Wait action to match." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your preferred delay is %d seconds. After adding, edit the Start shortcut's Wait action to match."
+          }
+        }
+      }
+    },
+    "Your sessions will appear here when a chosen app opens. Finish Setup to connect your automations." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your sessions will appear here when a chosen app opens. Finish Setup to connect your automations."
+          }
+        }
+      }
+    },
+    "your usual suspects" : {
+
+    }
+  },
+  "version" : "1.0"
+}

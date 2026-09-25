@@ -1,0 +1,903 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0005CBDFDF2A6104602D9FEA /* Caprasimo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FD23A1BF9E62B19E11830D /* Caprasimo-Regular.ttf */; };
+		00ADF07C1D87CAFB2D7DF826 /* SetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285A225CB2995749E0577422 /* SetupView.swift */; };
+		01D945C9AA84F439B88F6769 /* BrainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 164CBBE1A230F3CC0FBC4A7E /* BrainView.swift */; };
+		02FF8510ECD1BD294F9C86F2 /* Caprasimo-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0B81A73461BA8CBC9E661FC3 /* Caprasimo-OFL.txt */; };
+		04BD212241D7D56D77761F71 /* Color+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584854DC28B58781670D4B9E /* Color+Hex.swift */; };
+		054E005961574778C818012D /* Figtree.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 172F6A2F48BBA2C66FF30C41 /* Figtree.ttf */; };
+		06DA5E9EC19C59CEBE43D448 /* PickupCore in Frameworks */ = {isa = PBXBuildFile; productRef = 6662B3E013FFAE9E82659D27 /* PickupCore */; };
+		0A463B7FA9660953DCCEB739 /* PickupWidgets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E32B39E2032D558511390DA /* PickupWidgets.swift */; };
+		0B4B874DFC802B2D34ED603F /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E4F0A604DF101A0556C733 /* Theme.swift */; };
+		10D36B5777005532B9D16B20 /* PickupCore in Frameworks */ = {isa = PBXBuildFile; productRef = 87EB20DD9B192E41176AA945 /* PickupCore */; };
+		183505917A7BD5464B008472 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845133316A419066556054B7 /* Assets.xcassets */; };
+		1B327251A46882ED49526941 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C55C53CE58ACA8CC8C7EA2 /* RootView.swift */; };
+		1D7A2FB6695A8587954C4924 /* DropItDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E2FD4BCB4635C7D2AEA6396 /* DropItDesign.swift */; };
+		2006846EA3C45E5A589D7514 /* PickupReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80C2E11EA4EFA82C82251B9 /* PickupReport.swift */; };
+		227E1FFB36DD33667734FE84 /* DailySummaryConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8BE886C70943EAF8D0B2AE /* DailySummaryConfiguration.swift */; };
+		2B237895A3799C730A8AA9F6 /* Figtree-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 135263AE0295E9AAD560F2DE /* Figtree-OFL.txt */; };
+		303119B1C477BD2B6A735584 /* SetupStepCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3074733E7B37EFA3EAB17CC9 /* SetupStepCard.swift */; };
+		306EDEE6DD1AAFC60F72A006 /* DropItDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E2FD4BCB4635C7D2AEA6396 /* DropItDesign.swift */; };
+		325BAB82D7C21022FDF843EB /* ReportContexts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925132C4A9611E26CAA934F5 /* ReportContexts.swift */; };
+		35E4DE35339A9342486C7CC3 /* AppServicesContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785103F903DF6814FCC21ECF /* AppServicesContainer.swift */; };
+		3956AC99CB0E5283D1349986 /* BrainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 164CBBE1A230F3CC0FBC4A7E /* BrainView.swift */; };
+		3A15175CF1D8C245341B963A /* ReportHostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707D146D4E7B9573C5ADD8C /* ReportHostView.swift */; };
+		3D2E66670E2A39B4713042BB /* ReportKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F6A390FB8A549E5C87A1 /* ReportKind.swift */; };
+		3E2492C62B2D34552699B651 /* PickupShortcuts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F02AA81B50628228BC0B65 /* PickupShortcuts.swift */; };
+		3FEF36A56EBAAF73B8B78E6A /* DropItIslandView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48181B38608D452DC5459B3 /* DropItIslandView.swift */; };
+		40B37866486ACBF4AA4D6216 /* Color+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584854DC28B58781670D4B9E /* Color+Hex.swift */; };
+		4612B346AC4B1C691FC32431 /* SessionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5350A62A782611241FD52279 /* SessionRow.swift */; };
+		47740F666FC1315FD992D2EE /* SessionActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596D42066A34BDFAB7A2F43E /* SessionActivityView.swift */; };
+		4930FA77319187CDFC241D4C /* SetupAutomationGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2028F4DA151297C7FFE6F841 /* SetupAutomationGuide.swift */; };
+		496A284715E84524A21995E7 /* DropItDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E2FD4BCB4635C7D2AEA6396 /* DropItDesign.swift */; };
+		510A20B659F84438C24C7420 /* Pickup Session.shortcut in Resources */ = {isa = PBXBuildFile; fileRef = 26804C8ABE23145B7F2A1B69 /* Pickup Session.shortcut */; };
+		5795E4D338D822C9DA9D9229 /* DropItScreens.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6708536C8582CFD0E70FC45 /* DropItScreens.swift */; };
+		58B075F5DBAB7CCFAD76A353 /* SetupConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D1D06127110CA3502D8166 /* SetupConstants.swift */; };
+		58CDB94D897AF229C609E55D /* DropItUsageViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7402E68ECF99C3BF875639D5 /* DropItUsageViews.swift */; };
+		5B0EAACEE329C9BB38BB801F /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1F43D170587890702E7A6F43 /* Localizable.xcstrings */; };
+		5C7EA2B9269A62E332E7528C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F1F6922BF42A1F7EF0CA80 /* SettingsView.swift */; };
+		5F7BAD8BC8E26A30E637D115 /* SessionAppsReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42817B849293453F0EB1A94B /* SessionAppsReport.swift */; };
+		6233679C6106B22255BA725C /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1F43D170587890702E7A6F43 /* Localizable.xcstrings */; };
+		653F7DAC6530EE500E38FE7F /* Pickup End Session.shortcut in Resources */ = {isa = PBXBuildFile; fileRef = EBF893993C25BEF10741F84A /* Pickup End Session.shortcut */; };
+		6602A281E7C5AFE230818B7B /* Figtree-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 135263AE0295E9AAD560F2DE /* Figtree-OFL.txt */; };
+		6AAFF19E80B3B019CDACCEA3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9D47D2852C4D87F048C06374 /* PrivacyInfo.xcprivacy */; };
+		6FF5CA11193957B6E5F9BFFC /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708476D6843342CB03FEF24D /* TodayView.swift */; };
+		74B430B1302CD141D58B5A5E /* Caprasimo-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0B81A73461BA8CBC9E661FC3 /* Caprasimo-OFL.txt */; };
+		7CFF962A2976DB934884CFDD /* SessionActivityAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A646B6B75FE4F4A96FE5B46 /* SessionActivityAttributes.swift */; };
+		7D23022A31CB67D408460F4E /* DailySummaryReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9265E2AA89F2358573937D /* DailySummaryReport.swift */; };
+		7FA1A7CDDBA21BB51F2A7214 /* Figtree.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 172F6A2F48BBA2C66FF30C41 /* Figtree.ttf */; };
+		823E70E6981D24779F92C07E /* BrainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 164CBBE1A230F3CC0FBC4A7E /* BrainView.swift */; };
+		82CD1B4A03CA1BCE8ECEB869 /* ReportPreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1831B5048A177593B851260C /* ReportPreferences.swift */; };
+		833844880A8D005BE352EE6A /* SessionAppsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B67E0473801C70D501225D95 /* SessionAppsView.swift */; };
+		850CC88571DC361F70BB73AC /* DesignPreviewRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E91B440199037895C260EC /* DesignPreviewRoute.swift */; };
+		8956801B168841AE2BCFF86C /* Figtree-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 135263AE0295E9AAD560F2DE /* Figtree-OFL.txt */; };
+		8B4E94D57A2895D064BE3EB3 /* ReportContexts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925132C4A9611E26CAA934F5 /* ReportContexts.swift */; };
+		8B83B5FE0F74A7FA990F9571 /* DropItUsageViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7402E68ECF99C3BF875639D5 /* DropItUsageViews.swift */; };
+		8B8CD2B3ADA2B7615E5314C2 /* ExportItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB334F37124BB0FDE8D20639 /* ExportItem.swift */; };
+		8E2FAD875E270BEA201D990C /* ActivityKitClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C209260CF04369536A63156C /* ActivityKitClient.swift */; };
+		8E5F74600153458FC7070300 /* StartSessionIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651FF3D264F865FDD9B84E2F /* StartSessionIntent.swift */; };
+		8FDCC6C6AA6A43965EB339F6 /* Caprasimo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FD23A1BF9E62B19E11830D /* Caprasimo-Regular.ttf */; };
+		9C18D3F7E02E0F0A1A925AD4 /* DropItReports.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2DD47C744CFFC38EB80E1CA /* DropItReports.swift */; };
+		9C1DF7D905ADB2E26CB94B78 /* PickupWidgets.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 9A56C146EF2EE28851949FEE /* PickupWidgets.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		9F37018E17510A485C9FB616 /* DropItUsageViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7402E68ECF99C3BF875639D5 /* DropItUsageViews.swift */; };
+		9F4AB331CEEA1BA634E3B79B /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6826A303140248461B122028 /* HistoryView.swift */; };
+		A60CD92745DD4C8D8B960ED7 /* DailySummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCF64048697171D24DBBE5A /* DailySummaryView.swift */; };
+		A92B132927229A20FE314C96 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9D47D2852C4D87F048C06374 /* PrivacyInfo.xcprivacy */; };
+		ADAE6265CC3C165E0270A3B1 /* L10n.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A17AF34A4A9C667A374C0A /* L10n.swift */; };
+		AF495B73ADC191F7EC1BE735 /* Color+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584854DC28B58781670D4B9E /* Color+Hex.swift */; };
+		AFB77F02EF975596A4BCEC5B /* LiveActivityAccessCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBC44C90B1D41B1572D49887 /* LiveActivityAccessCard.swift */; };
+		B01EE0473B69646B26BD6861 /* SessionActivityAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A646B6B75FE4F4A96FE5B46 /* SessionActivityAttributes.swift */; };
+		B26190542C85FE84D2DDDBBD /* StorageError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A3C0872ED137667B7E501F /* StorageError.swift */; };
+		B2C7E7F7A0A9FAE97E7886F8 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1F43D170587890702E7A6F43 /* Localizable.xcstrings */; };
+		B6A2E2FC6D29D5B71D19DF2D /* ShowTimerIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131E1585008F92773FF33B99 /* ShowTimerIntent.swift */; };
+		B7C58F4FFB3C7520ADBFF19D /* Figtree.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 172F6A2F48BBA2C66FF30C41 /* Figtree.ttf */; };
+		BFF4CA9F2E3DCCE8D09690AB /* AppServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D2BBA6083D1F0ABEDD4F10 /* AppServices.swift */; };
+		C2822EFBC56ECF6EE94644D4 /* L10n.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A17AF34A4A9C667A374C0A /* L10n.swift */; };
+		C4130D31132C8B454AA520B6 /* PickupApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1911BEA9A0B8632C91A1ED /* PickupApp.swift */; };
+		CD9CFBF7EA71DC57F1B96F1F /* EndSessionIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A48F8765BBBEF98F1E7F94 /* EndSessionIntent.swift */; };
+		CDB3E4FC71AA05116497ED26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 845133316A419066556054B7 /* Assets.xcassets */; };
+		CDF7248B645DA6E533278887 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9D47D2852C4D87F048C06374 /* PrivacyInfo.xcprivacy */; };
+		CF39997F9950ACDB7D5E5DA1 /* DropItOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D5235EDB83A1DD672F9340 /* DropItOnboardingView.swift */; };
+		D1DE0A2339923253EFA69C2F /* ShareSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D0DD9DCC50AF2D64620C46 /* ShareSheet.swift */; };
+		DCDCF0D7F4FF8E39F76E8948 /* ShortcutManifest.json in Resources */ = {isa = PBXBuildFile; fileRef = F9636D45981914A677C79F45 /* ShortcutManifest.json */; };
+		DDB3D73E8F7CD38A04F5F674 /* PickupCore in Frameworks */ = {isa = PBXBuildFile; productRef = A61A6BFC546CF6D584D67E8C /* PickupCore */; };
+		E2D7C15803D631AD61C9D3BA /* Caprasimo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FD23A1BF9E62B19E11830D /* Caprasimo-Regular.ttf */; };
+		E36027C8ED44D70814F7B887 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC367948D0C3837C7D775E /* AppModel.swift */; };
+		E7C7C68106ED7114AEA6A6C1 /* SessionAppsConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98E8069D20E78D10BB15A081 /* SessionAppsConfiguration.swift */; };
+		E7E9D6DDFF593ADDF55882B4 /* L10n.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A17AF34A4A9C667A374C0A /* L10n.swift */; };
+		E9B84D8807BA237952AEF70E /* SessionLiveActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 570667469879118D0C046080 /* SessionLiveActivity.swift */; };
+		EB6E56AC16E52043ABDD33C6 /* Caprasimo-OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0B81A73461BA8CBC9E661FC3 /* Caprasimo-OFL.txt */; };
+		EBB20BBB70A6D5747838C875 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7510C459022D01872679ED26 /* Assets.xcassets */; };
+		ED2AC26333C5153EC54DB50F /* PickupReport.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 648506C0E052FC53BB38968E /* PickupReport.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		F89C8BF879AF7DA728AF90AB /* SessionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B36A50A6CE073E28BCFC3E /* SessionDetailView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BA862D4B424F8BE200A4D634 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A185D3EA694163112D0BDA74;
+			remoteInfo = PickupReport;
+		};
+		D2F6F1A92760DE7D213B3516 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B4B62070E8D8D61C87E1F2F7;
+			remoteInfo = PickupWidgets;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		750AF8B558936E3AECB9A82F /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				9C1DF7D905ADB2E26CB94B78 /* PickupWidgets.appex in Embed App Extensions */,
+				ED2AC26333C5153EC54DB50F /* PickupReport.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		07C55C53CE58ACA8CC8C7EA2 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RootView.swift; path = Pickup/RootView.swift; sourceTree = SOURCE_ROOT; };
+		0B81A73461BA8CBC9E661FC3 /* Caprasimo-OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "Caprasimo-OFL.txt"; path = "Shared/Fonts/Caprasimo-OFL.txt"; sourceTree = SOURCE_ROOT; };
+		131E1585008F92773FF33B99 /* ShowTimerIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShowTimerIntent.swift; path = Pickup/ShowTimerIntent.swift; sourceTree = SOURCE_ROOT; };
+		135263AE0295E9AAD560F2DE /* Figtree-OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "Figtree-OFL.txt"; path = "Shared/Fonts/Figtree-OFL.txt"; sourceTree = SOURCE_ROOT; };
+		164CBBE1A230F3CC0FBC4A7E /* BrainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BrainView.swift; path = Shared/BrainView.swift; sourceTree = SOURCE_ROOT; };
+		172F6A2F48BBA2C66FF30C41 /* Figtree.ttf */ = {isa = PBXFileReference; lastKnownFileType = text; name = Figtree.ttf; path = Shared/Fonts/Figtree.ttf; sourceTree = SOURCE_ROOT; };
+		17D5235EDB83A1DD672F9340 /* DropItOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItOnboardingView.swift; path = Pickup/DropItOnboardingView.swift; sourceTree = SOURCE_ROOT; };
+		1831B5048A177593B851260C /* ReportPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReportPreferences.swift; path = PickupReport/ReportPreferences.swift; sourceTree = SOURCE_ROOT; };
+		19FEC2E495F16B8CDD93292A /* PickupWidgets.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = PickupWidgets.entitlements; path = PickupWidgets/PickupWidgets.entitlements; sourceTree = SOURCE_ROOT; };
+		1F43D170587890702E7A6F43 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = Localizable.xcstrings; path = Shared/Localizable.xcstrings; sourceTree = SOURCE_ROOT; };
+		2028F4DA151297C7FFE6F841 /* SetupAutomationGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SetupAutomationGuide.swift; path = Pickup/SetupAutomationGuide.swift; sourceTree = SOURCE_ROOT; };
+		20FC367948D0C3837C7D775E /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppModel.swift; path = Pickup/AppModel.swift; sourceTree = SOURCE_ROOT; };
+		26804C8ABE23145B7F2A1B69 /* Pickup Session.shortcut */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pickup Session.shortcut"; path = "Pickup/ShortcutResources/Pickup Session.shortcut"; sourceTree = SOURCE_ROOT; };
+		26A3C0872ED137667B7E501F /* StorageError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StorageError.swift; path = Pickup/StorageError.swift; sourceTree = SOURCE_ROOT; };
+		285A225CB2995749E0577422 /* SetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SetupView.swift; path = Pickup/SetupView.swift; sourceTree = SOURCE_ROOT; };
+		2A070BC1E288534CD2AFEF1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = PickupReport/Info.plist; sourceTree = SOURCE_ROOT; };
+		2E2FD4BCB4635C7D2AEA6396 /* DropItDesign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItDesign.swift; path = Shared/DropItDesign.swift; sourceTree = SOURCE_ROOT; };
+		3074733E7B37EFA3EAB17CC9 /* SetupStepCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SetupStepCard.swift; path = Pickup/SetupStepCard.swift; sourceTree = SOURCE_ROOT; };
+		34E9FFE8069982701B922778 /* KNOWN_TODOS.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = KNOWN_TODOS.md; sourceTree = SOURCE_ROOT; };
+		36D0DD9DCC50AF2D64620C46 /* ShareSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShareSheet.swift; path = Pickup/ShareSheet.swift; sourceTree = SOURCE_ROOT; };
+		37F1F6922BF42A1F7EF0CA80 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsView.swift; path = Pickup/SettingsView.swift; sourceTree = SOURCE_ROOT; };
+		40D6BECD2FBCA5F8E4C521FE /* VALIDATION.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = VALIDATION.md; path = Docs/VALIDATION.md; sourceTree = SOURCE_ROOT; };
+		42817B849293453F0EB1A94B /* SessionAppsReport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionAppsReport.swift; path = PickupReport/SessionAppsReport.swift; sourceTree = SOURCE_ROOT; };
+		42E4F0A604DF101A0556C733 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Theme.swift; path = Pickup/Theme.swift; sourceTree = SOURCE_ROOT; };
+		4396CAD3F2DE3E1396363D26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = PickupWidgets/Info.plist; sourceTree = SOURCE_ROOT; };
+		46F02AA81B50628228BC0B65 /* PickupShortcuts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PickupShortcuts.swift; path = Pickup/PickupShortcuts.swift; sourceTree = SOURCE_ROOT; };
+		4705A7EDB23D1E5238099B35 /* PickupReport.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = PickupReport.entitlements; path = PickupReport/PickupReport.entitlements; sourceTree = SOURCE_ROOT; };
+		48FD23A1BF9E62B19E11830D /* Caprasimo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = text; name = "Caprasimo-Regular.ttf"; path = "Shared/Fonts/Caprasimo-Regular.ttf"; sourceTree = SOURCE_ROOT; };
+		50778595AA221B068518C8A3 /* Base.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Base.xcconfig; path = Config/Base.xcconfig; sourceTree = SOURCE_ROOT; };
+		5350A62A782611241FD52279 /* SessionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionRow.swift; path = Pickup/SessionRow.swift; sourceTree = SOURCE_ROOT; };
+		570667469879118D0C046080 /* SessionLiveActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionLiveActivity.swift; path = PickupWidgets/SessionLiveActivity.swift; sourceTree = SOURCE_ROOT; };
+		584854DC28B58781670D4B9E /* Color+Hex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Color+Hex.swift"; path = "Shared/Color+Hex.swift"; sourceTree = SOURCE_ROOT; };
+		596D42066A34BDFAB7A2F43E /* SessionActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionActivityView.swift; path = PickupWidgets/SessionActivityView.swift; sourceTree = SOURCE_ROOT; };
+		63E91B440199037895C260EC /* DesignPreviewRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DesignPreviewRoute.swift; path = Pickup/DesignPreviewRoute.swift; sourceTree = SOURCE_ROOT; };
+		648506C0E052FC53BB38968E /* PickupReport.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = PickupReport.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		651FF3D264F865FDD9B84E2F /* StartSessionIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StartSessionIntent.swift; path = Pickup/StartSessionIntent.swift; sourceTree = SOURCE_ROOT; };
+		6826A303140248461B122028 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HistoryView.swift; path = Pickup/HistoryView.swift; sourceTree = SOURCE_ROOT; };
+		6FCF64048697171D24DBBE5A /* DailySummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DailySummaryView.swift; path = PickupReport/DailySummaryView.swift; sourceTree = SOURCE_ROOT; };
+		708476D6843342CB03FEF24D /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TodayView.swift; path = Pickup/TodayView.swift; sourceTree = SOURCE_ROOT; };
+		71A17AF34A4A9C667A374C0A /* L10n.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = L10n.swift; path = Shared/L10n.swift; sourceTree = SOURCE_ROOT; };
+		7402E68ECF99C3BF875639D5 /* DropItUsageViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItUsageViews.swift; path = Shared/DropItUsageViews.swift; sourceTree = SOURCE_ROOT; };
+		7510C459022D01872679ED26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Pickup/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		785103F903DF6814FCC21ECF /* AppServicesContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppServicesContainer.swift; path = Pickup/AppServicesContainer.swift; sourceTree = SOURCE_ROOT; };
+		79D6F6A390FB8A549E5C87A1 /* ReportKind.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReportKind.swift; path = Pickup/ReportKind.swift; sourceTree = SOURCE_ROOT; };
+		7E1911BEA9A0B8632C91A1ED /* PickupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PickupApp.swift; path = Pickup/PickupApp.swift; sourceTree = SOURCE_ROOT; };
+		81B36A50A6CE073E28BCFC3E /* SessionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionDetailView.swift; path = Pickup/SessionDetailView.swift; sourceTree = SOURCE_ROOT; };
+		845133316A419066556054B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Shared/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		8A646B6B75FE4F4A96FE5B46 /* SessionActivityAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionActivityAttributes.swift; path = Shared/SessionActivityAttributes.swift; sourceTree = SOURCE_ROOT; };
+		925132C4A9611E26CAA934F5 /* ReportContexts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReportContexts.swift; path = Shared/ReportContexts.swift; sourceTree = SOURCE_ROOT; };
+		98E8069D20E78D10BB15A081 /* SessionAppsConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionAppsConfiguration.swift; path = PickupReport/SessionAppsConfiguration.swift; sourceTree = SOURCE_ROOT; };
+		9A56C146EF2EE28851949FEE /* PickupWidgets.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = PickupWidgets.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C9265E2AA89F2358573937D /* DailySummaryReport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DailySummaryReport.swift; path = PickupReport/DailySummaryReport.swift; sourceTree = SOURCE_ROOT; };
+		9D47D2852C4D87F048C06374 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text; name = PrivacyInfo.xcprivacy; path = Shared/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
+		9E32B39E2032D558511390DA /* PickupWidgets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PickupWidgets.swift; path = PickupWidgets/PickupWidgets.swift; sourceTree = SOURCE_ROOT; };
+		A2DD47C744CFFC38EB80E1CA /* DropItReports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItReports.swift; path = PickupReport/DropItReports.swift; sourceTree = SOURCE_ROOT; };
+		AA4ACA445B3FBAF47CDE31AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
+		B0F5C2399A090552F32C68D7 /* Pickup.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Pickup.entitlements; path = Pickup/Pickup.entitlements; sourceTree = SOURCE_ROOT; };
+		B5B196144A36086D1477E632 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Pickup/Info.plist; sourceTree = SOURCE_ROOT; };
+		B67E0473801C70D501225D95 /* SessionAppsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SessionAppsView.swift; path = PickupReport/SessionAppsView.swift; sourceTree = SOURCE_ROOT; };
+		C209260CF04369536A63156C /* ActivityKitClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ActivityKitClient.swift; path = Pickup/ActivityKitClient.swift; sourceTree = SOURCE_ROOT; };
+		C4D1D06127110CA3502D8166 /* SetupConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SetupConstants.swift; path = Pickup/SetupConstants.swift; sourceTree = SOURCE_ROOT; };
+		C6708536C8582CFD0E70FC45 /* DropItScreens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItScreens.swift; path = Pickup/DropItScreens.swift; sourceTree = SOURCE_ROOT; };
+		C6EA64B1C5F82159DAB844CB /* DROP_IT_REDESIGN.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = DROP_IT_REDESIGN.md; path = Docs/DROP_IT_REDESIGN.md; sourceTree = SOURCE_ROOT; };
+		C707D146D4E7B9573C5ADD8C /* ReportHostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReportHostView.swift; path = Pickup/ReportHostView.swift; sourceTree = SOURCE_ROOT; };
+		CA8BE886C70943EAF8D0B2AE /* DailySummaryConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DailySummaryConfiguration.swift; path = PickupReport/DailySummaryConfiguration.swift; sourceTree = SOURCE_ROOT; };
+		CB42380507858D0D481D80AF /* DEVICE_TEST_PLAN.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = DEVICE_TEST_PLAN.md; path = Docs/DEVICE_TEST_PLAN.md; sourceTree = SOURCE_ROOT; };
+		D8A48F8765BBBEF98F1E7F94 /* EndSessionIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EndSessionIntent.swift; path = Pickup/EndSessionIntent.swift; sourceTree = SOURCE_ROOT; };
+		DB334F37124BB0FDE8D20639 /* ExportItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ExportItem.swift; path = Pickup/ExportItem.swift; sourceTree = SOURCE_ROOT; };
+		DBC44C90B1D41B1572D49887 /* LiveActivityAccessCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LiveActivityAccessCard.swift; path = Pickup/LiveActivityAccessCard.swift; sourceTree = SOURCE_ROOT; };
+		E48181B38608D452DC5459B3 /* DropItIslandView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DropItIslandView.swift; path = Pickup/DropItIslandView.swift; sourceTree = SOURCE_ROOT; };
+		E80C2E11EA4EFA82C82251B9 /* PickupReport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PickupReport.swift; path = PickupReport/PickupReport.swift; sourceTree = SOURCE_ROOT; };
+		EBF893993C25BEF10741F84A /* Pickup End Session.shortcut */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pickup End Session.shortcut"; path = "Pickup/ShortcutResources/Pickup End Session.shortcut"; sourceTree = SOURCE_ROOT; };
+		EE04EFAC848ABEC807E29AF3 /* Pickup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pickup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1D2BBA6083D1F0ABEDD4F10 /* AppServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppServices.swift; path = Pickup/AppServices.swift; sourceTree = SOURCE_ROOT; };
+		F9636D45981914A677C79F45 /* ShortcutManifest.json */ = {isa = PBXFileReference; lastKnownFileType = text; name = ShortcutManifest.json; path = Pickup/ShortcutResources/ShortcutManifest.json; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2162413C76FE4F3CB1B23486 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				10D36B5777005532B9D16B20 /* PickupCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9F72B731038C4E2297A8A70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				06DA5E9EC19C59CEBE43D448 /* PickupCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBD587542330224EDAA2058A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DDB3D73E8F7CD38A04F5F674 /* PickupCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		138D602BF33FE243812F34AF /* PickupWidgets */ = {
+			isa = PBXGroup;
+			children = (
+				4396CAD3F2DE3E1396363D26 /* Info.plist */,
+				19FEC2E495F16B8CDD93292A /* PickupWidgets.entitlements */,
+				9E32B39E2032D558511390DA /* PickupWidgets.swift */,
+				596D42066A34BDFAB7A2F43E /* SessionActivityView.swift */,
+				570667469879118D0C046080 /* SessionLiveActivity.swift */,
+			);
+			name = PickupWidgets;
+			sourceTree = "<group>";
+		};
+		13B0D998500A1E31F7BC09FF /* PickupReport */ = {
+			isa = PBXGroup;
+			children = (
+				CA8BE886C70943EAF8D0B2AE /* DailySummaryConfiguration.swift */,
+				9C9265E2AA89F2358573937D /* DailySummaryReport.swift */,
+				6FCF64048697171D24DBBE5A /* DailySummaryView.swift */,
+				A2DD47C744CFFC38EB80E1CA /* DropItReports.swift */,
+				2A070BC1E288534CD2AFEF1C /* Info.plist */,
+				4705A7EDB23D1E5238099B35 /* PickupReport.entitlements */,
+				E80C2E11EA4EFA82C82251B9 /* PickupReport.swift */,
+				1831B5048A177593B851260C /* ReportPreferences.swift */,
+				98E8069D20E78D10BB15A081 /* SessionAppsConfiguration.swift */,
+				42817B849293453F0EB1A94B /* SessionAppsReport.swift */,
+				B67E0473801C70D501225D95 /* SessionAppsView.swift */,
+			);
+			name = PickupReport;
+			sourceTree = "<group>";
+		};
+		44C7E229889FE9D1BB841A79 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				845133316A419066556054B7 /* Assets.xcassets */,
+				164CBBE1A230F3CC0FBC4A7E /* BrainView.swift */,
+				584854DC28B58781670D4B9E /* Color+Hex.swift */,
+				2E2FD4BCB4635C7D2AEA6396 /* DropItDesign.swift */,
+				7402E68ECF99C3BF875639D5 /* DropItUsageViews.swift */,
+				0B81A73461BA8CBC9E661FC3 /* Caprasimo-OFL.txt */,
+				48FD23A1BF9E62B19E11830D /* Caprasimo-Regular.ttf */,
+				135263AE0295E9AAD560F2DE /* Figtree-OFL.txt */,
+				172F6A2F48BBA2C66FF30C41 /* Figtree.ttf */,
+				71A17AF34A4A9C667A374C0A /* L10n.swift */,
+				1F43D170587890702E7A6F43 /* Localizable.xcstrings */,
+				9D47D2852C4D87F048C06374 /* PrivacyInfo.xcprivacy */,
+				925132C4A9611E26CAA934F5 /* ReportContexts.swift */,
+				8A646B6B75FE4F4A96FE5B46 /* SessionActivityAttributes.swift */,
+			);
+			name = Shared;
+			sourceTree = "<group>";
+		};
+		5619E268CFFE28118C19FC6A /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				50778595AA221B068518C8A3 /* Base.xcconfig */,
+			);
+			name = Config;
+			sourceTree = "<group>";
+		};
+		70EE55F66ABAB4F379C7D455 /* Pickup */ = {
+			isa = PBXGroup;
+			children = (
+				C209260CF04369536A63156C /* ActivityKitClient.swift */,
+				20FC367948D0C3837C7D775E /* AppModel.swift */,
+				F1D2BBA6083D1F0ABEDD4F10 /* AppServices.swift */,
+				785103F903DF6814FCC21ECF /* AppServicesContainer.swift */,
+				7510C459022D01872679ED26 /* Assets.xcassets */,
+				63E91B440199037895C260EC /* DesignPreviewRoute.swift */,
+				E48181B38608D452DC5459B3 /* DropItIslandView.swift */,
+				17D5235EDB83A1DD672F9340 /* DropItOnboardingView.swift */,
+				C6708536C8582CFD0E70FC45 /* DropItScreens.swift */,
+				D8A48F8765BBBEF98F1E7F94 /* EndSessionIntent.swift */,
+				DB334F37124BB0FDE8D20639 /* ExportItem.swift */,
+				6826A303140248461B122028 /* HistoryView.swift */,
+				B5B196144A36086D1477E632 /* Info.plist */,
+				DBC44C90B1D41B1572D49887 /* LiveActivityAccessCard.swift */,
+				B0F5C2399A090552F32C68D7 /* Pickup.entitlements */,
+				7E1911BEA9A0B8632C91A1ED /* PickupApp.swift */,
+				46F02AA81B50628228BC0B65 /* PickupShortcuts.swift */,
+				C707D146D4E7B9573C5ADD8C /* ReportHostView.swift */,
+				79D6F6A390FB8A549E5C87A1 /* ReportKind.swift */,
+				07C55C53CE58ACA8CC8C7EA2 /* RootView.swift */,
+				81B36A50A6CE073E28BCFC3E /* SessionDetailView.swift */,
+				5350A62A782611241FD52279 /* SessionRow.swift */,
+				37F1F6922BF42A1F7EF0CA80 /* SettingsView.swift */,
+				2028F4DA151297C7FFE6F841 /* SetupAutomationGuide.swift */,
+				C4D1D06127110CA3502D8166 /* SetupConstants.swift */,
+				3074733E7B37EFA3EAB17CC9 /* SetupStepCard.swift */,
+				285A225CB2995749E0577422 /* SetupView.swift */,
+				36D0DD9DCC50AF2D64620C46 /* ShareSheet.swift */,
+				EBF893993C25BEF10741F84A /* Pickup End Session.shortcut */,
+				26804C8ABE23145B7F2A1B69 /* Pickup Session.shortcut */,
+				F9636D45981914A677C79F45 /* ShortcutManifest.json */,
+				131E1585008F92773FF33B99 /* ShowTimerIntent.swift */,
+				651FF3D264F865FDD9B84E2F /* StartSessionIntent.swift */,
+				26A3C0872ED137667B7E501F /* StorageError.swift */,
+				42E4F0A604DF101A0556C733 /* Theme.swift */,
+				708476D6843342CB03FEF24D /* TodayView.swift */,
+			);
+			name = Pickup;
+			sourceTree = "<group>";
+		};
+		86E76DCFD8B38CD6265704AD /* Docs */ = {
+			isa = PBXGroup;
+			children = (
+				CB42380507858D0D481D80AF /* DEVICE_TEST_PLAN.md */,
+				C6EA64B1C5F82159DAB844CB /* DROP_IT_REDESIGN.md */,
+				40D6BECD2FBCA5F8E4C521FE /* VALIDATION.md */,
+			);
+			name = Docs;
+			sourceTree = "<group>";
+		};
+		B28B7AF69320201D1CF206EB = {
+			isa = PBXGroup;
+			children = (
+				AA4ACA445B3FBAF47CDE31AC /* README.md */,
+				34E9FFE8069982701B922778 /* KNOWN_TODOS.md */,
+				70EE55F66ABAB4F379C7D455 /* Pickup */,
+				138D602BF33FE243812F34AF /* PickupWidgets */,
+				13B0D998500A1E31F7BC09FF /* PickupReport */,
+				44C7E229889FE9D1BB841A79 /* Shared */,
+				5619E268CFFE28118C19FC6A /* Config */,
+				86E76DCFD8B38CD6265704AD /* Docs */,
+				FBDC4F23F93125BBEEAE800C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FBDC4F23F93125BBEEAE800C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EE04EFAC848ABEC807E29AF3 /* Pickup.app */,
+				9A56C146EF2EE28851949FEE /* PickupWidgets.appex */,
+				648506C0E052FC53BB38968E /* PickupReport.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		778164CD46C78B2DC3A20098 /* Pickup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1B427AF90B9686A357B06894 /* Build configuration list for PBXNativeTarget "Pickup" */;
+			buildPhases = (
+				A4E7FA5C74B72AA1E0A2941D /* Sources */,
+				DBD587542330224EDAA2058A /* Frameworks */,
+				0A8DC32B28FA66BF02F768CB /* Resources */,
+				750AF8B558936E3AECB9A82F /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F963D01840BADC4D28E54B34 /* PBXTargetDependency */,
+				22A54024DEE0192A5A2BFA47 /* PBXTargetDependency */,
+			);
+			name = Pickup;
+			packageProductDependencies = (
+				A61A6BFC546CF6D584D67E8C /* PickupCore */,
+			);
+			productName = Pickup;
+			productReference = EE04EFAC848ABEC807E29AF3 /* Pickup.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A185D3EA694163112D0BDA74 /* PickupReport */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA49C642C84CEF6FA3EBC152 /* Build configuration list for PBXNativeTarget "PickupReport" */;
+			buildPhases = (
+				8C32769FD58CF9ECF7B5F0B7 /* Sources */,
+				2162413C76FE4F3CB1B23486 /* Frameworks */,
+				85BC7683530442D44C18CA28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PickupReport;
+			packageProductDependencies = (
+				87EB20DD9B192E41176AA945 /* PickupCore */,
+			);
+			productName = PickupReport;
+			productReference = 648506C0E052FC53BB38968E /* PickupReport.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		B4B62070E8D8D61C87E1F2F7 /* PickupWidgets */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE7A50D1F381DF4E435214A7 /* Build configuration list for PBXNativeTarget "PickupWidgets" */;
+			buildPhases = (
+				7C4BF9EE7F46D72740598E9E /* Sources */,
+				D9F72B731038C4E2297A8A70 /* Frameworks */,
+				5B5251D7DB8703BA67AD97A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PickupWidgets;
+			packageProductDependencies = (
+				6662B3E013FFAE9E82659D27 /* PickupCore */,
+			);
+			productName = PickupWidgets;
+			productReference = 9A56C146EF2EE28851949FEE /* PickupWidgets.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98F54143AB4E86B28C3AFEE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					778164CD46C78B2DC3A20098 = {
+						CreatedOnToolsVersion = 26.0;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+							com.apple.FamilyControls = {
+								enabled = 1;
+							};
+						};
+					};
+					A185D3EA694163112D0BDA74 = {
+						CreatedOnToolsVersion = 26.0;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+							com.apple.FamilyControls = {
+								enabled = 1;
+							};
+						};
+					};
+					B4B62070E8D8D61C87E1F2F7 = {
+						CreatedOnToolsVersion = 26.0;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 640DC9EFD529235A8D9E2727 /* Build configuration list for PBXProject "Pickup" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B28B7AF69320201D1CF206EB;
+			packageReferences = (
+				B747EAD6A8D7189EE159E1E4 /* XCLocalSwiftPackageReference "PickupCore" */,
+			);
+			productRefGroup = FBDC4F23F93125BBEEAE800C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				778164CD46C78B2DC3A20098 /* Pickup */,
+				B4B62070E8D8D61C87E1F2F7 /* PickupWidgets */,
+				A185D3EA694163112D0BDA74 /* PickupReport */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0A8DC32B28FA66BF02F768CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5B0EAACEE329C9BB38BB801F /* Localizable.xcstrings in Resources */,
+				CDF7248B645DA6E533278887 /* PrivacyInfo.xcprivacy in Resources */,
+				02FF8510ECD1BD294F9C86F2 /* Caprasimo-OFL.txt in Resources */,
+				E2D7C15803D631AD61C9D3BA /* Caprasimo-Regular.ttf in Resources */,
+				6602A281E7C5AFE230818B7B /* Figtree-OFL.txt in Resources */,
+				7FA1A7CDDBA21BB51F2A7214 /* Figtree.ttf in Resources */,
+				CDB3E4FC71AA05116497ED26 /* Assets.xcassets in Resources */,
+				EBB20BBB70A6D5747838C875 /* Assets.xcassets in Resources */,
+				653F7DAC6530EE500E38FE7F /* Pickup End Session.shortcut in Resources */,
+				510A20B659F84438C24C7420 /* Pickup Session.shortcut in Resources */,
+				DCDCF0D7F4FF8E39F76E8948 /* ShortcutManifest.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5B5251D7DB8703BA67AD97A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B2C7E7F7A0A9FAE97E7886F8 /* Localizable.xcstrings in Resources */,
+				6AAFF19E80B3B019CDACCEA3 /* PrivacyInfo.xcprivacy in Resources */,
+				74B430B1302CD141D58B5A5E /* Caprasimo-OFL.txt in Resources */,
+				0005CBDFDF2A6104602D9FEA /* Caprasimo-Regular.ttf in Resources */,
+				2B237895A3799C730A8AA9F6 /* Figtree-OFL.txt in Resources */,
+				054E005961574778C818012D /* Figtree.ttf in Resources */,
+				183505917A7BD5464B008472 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85BC7683530442D44C18CA28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6233679C6106B22255BA725C /* Localizable.xcstrings in Resources */,
+				A92B132927229A20FE314C96 /* PrivacyInfo.xcprivacy in Resources */,
+				EB6E56AC16E52043ABDD33C6 /* Caprasimo-OFL.txt in Resources */,
+				8FDCC6C6AA6A43965EB339F6 /* Caprasimo-Regular.ttf in Resources */,
+				8956801B168841AE2BCFF86C /* Figtree-OFL.txt in Resources */,
+				B7C58F4FFB3C7520ADBFF19D /* Figtree.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7C4BF9EE7F46D72740598E9E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A463B7FA9660953DCCEB739 /* PickupWidgets.swift in Sources */,
+				47740F666FC1315FD992D2EE /* SessionActivityView.swift in Sources */,
+				E9B84D8807BA237952AEF70E /* SessionLiveActivity.swift in Sources */,
+				ADAE6265CC3C165E0270A3B1 /* L10n.swift in Sources */,
+				AF495B73ADC191F7EC1BE735 /* Color+Hex.swift in Sources */,
+				306EDEE6DD1AAFC60F72A006 /* DropItDesign.swift in Sources */,
+				01D945C9AA84F439B88F6769 /* BrainView.swift in Sources */,
+				9F37018E17510A485C9FB616 /* DropItUsageViews.swift in Sources */,
+				7CFF962A2976DB934884CFDD /* SessionActivityAttributes.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C32769FD58CF9ECF7B5F0B7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				227E1FFB36DD33667734FE84 /* DailySummaryConfiguration.swift in Sources */,
+				7D23022A31CB67D408460F4E /* DailySummaryReport.swift in Sources */,
+				A60CD92745DD4C8D8B960ED7 /* DailySummaryView.swift in Sources */,
+				9C18D3F7E02E0F0A1A925AD4 /* DropItReports.swift in Sources */,
+				2006846EA3C45E5A589D7514 /* PickupReport.swift in Sources */,
+				82CD1B4A03CA1BCE8ECEB869 /* ReportPreferences.swift in Sources */,
+				E7C7C68106ED7114AEA6A6C1 /* SessionAppsConfiguration.swift in Sources */,
+				5F7BAD8BC8E26A30E637D115 /* SessionAppsReport.swift in Sources */,
+				833844880A8D005BE352EE6A /* SessionAppsView.swift in Sources */,
+				E7E9D6DDFF593ADDF55882B4 /* L10n.swift in Sources */,
+				40B37866486ACBF4AA4D6216 /* Color+Hex.swift in Sources */,
+				496A284715E84524A21995E7 /* DropItDesign.swift in Sources */,
+				823E70E6981D24779F92C07E /* BrainView.swift in Sources */,
+				8B83B5FE0F74A7FA990F9571 /* DropItUsageViews.swift in Sources */,
+				325BAB82D7C21022FDF843EB /* ReportContexts.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A4E7FA5C74B72AA1E0A2941D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E2FAD875E270BEA201D990C /* ActivityKitClient.swift in Sources */,
+				E36027C8ED44D70814F7B887 /* AppModel.swift in Sources */,
+				BFF4CA9F2E3DCCE8D09690AB /* AppServices.swift in Sources */,
+				35E4DE35339A9342486C7CC3 /* AppServicesContainer.swift in Sources */,
+				850CC88571DC361F70BB73AC /* DesignPreviewRoute.swift in Sources */,
+				3FEF36A56EBAAF73B8B78E6A /* DropItIslandView.swift in Sources */,
+				CF39997F9950ACDB7D5E5DA1 /* DropItOnboardingView.swift in Sources */,
+				5795E4D338D822C9DA9D9229 /* DropItScreens.swift in Sources */,
+				CD9CFBF7EA71DC57F1B96F1F /* EndSessionIntent.swift in Sources */,
+				8B8CD2B3ADA2B7615E5314C2 /* ExportItem.swift in Sources */,
+				9F4AB331CEEA1BA634E3B79B /* HistoryView.swift in Sources */,
+				AFB77F02EF975596A4BCEC5B /* LiveActivityAccessCard.swift in Sources */,
+				C4130D31132C8B454AA520B6 /* PickupApp.swift in Sources */,
+				3E2492C62B2D34552699B651 /* PickupShortcuts.swift in Sources */,
+				3A15175CF1D8C245341B963A /* ReportHostView.swift in Sources */,
+				3D2E66670E2A39B4713042BB /* ReportKind.swift in Sources */,
+				1B327251A46882ED49526941 /* RootView.swift in Sources */,
+				F89C8BF879AF7DA728AF90AB /* SessionDetailView.swift in Sources */,
+				4612B346AC4B1C691FC32431 /* SessionRow.swift in Sources */,
+				5C7EA2B9269A62E332E7528C /* SettingsView.swift in Sources */,
+				4930FA77319187CDFC241D4C /* SetupAutomationGuide.swift in Sources */,
+				58B075F5DBAB7CCFAD76A353 /* SetupConstants.swift in Sources */,
+				303119B1C477BD2B6A735584 /* SetupStepCard.swift in Sources */,
+				00ADF07C1D87CAFB2D7DF826 /* SetupView.swift in Sources */,
+				D1DE0A2339923253EFA69C2F /* ShareSheet.swift in Sources */,
+				B6A2E2FC6D29D5B71D19DF2D /* ShowTimerIntent.swift in Sources */,
+				8E5F74600153458FC7070300 /* StartSessionIntent.swift in Sources */,
+				B26190542C85FE84D2DDDBBD /* StorageError.swift in Sources */,
+				0B4B874DFC802B2D34ED603F /* Theme.swift in Sources */,
+				6FF5CA11193957B6E5F9BFFC /* TodayView.swift in Sources */,
+				C2822EFBC56ECF6EE94644D4 /* L10n.swift in Sources */,
+				04BD212241D7D56D77761F71 /* Color+Hex.swift in Sources */,
+				1D7A2FB6695A8587954C4924 /* DropItDesign.swift in Sources */,
+				3956AC99CB0E5283D1349986 /* BrainView.swift in Sources */,
+				58CDB94D897AF229C609E55D /* DropItUsageViews.swift in Sources */,
+				B01EE0473B69646B26BD6861 /* SessionActivityAttributes.swift in Sources */,
+				8B4E94D57A2895D064BE3EB3 /* ReportContexts.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		22A54024DEE0192A5A2BFA47 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A185D3EA694163112D0BDA74 /* PickupReport */;
+			targetProxy = BA862D4B424F8BE200A4D634 /* PBXContainerItemProxy */;
+		};
+		F963D01840BADC4D28E54B34 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B4B62070E8D8D61C87E1F2F7 /* PickupWidgets */;
+			targetProxy = D2F6F1A92760DE7D213B3516 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2D0FF7CE198C663093D6C009 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = PickupReport/PickupReport.entitlements;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PickupReport/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit.dropitwidgets";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5283471FF90C511CFE244FFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Release;
+		};
+		5A34050B3B791273D517CDBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = PickupWidgets/PickupWidgets.entitlements;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PickupWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit.dropitwidgets";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		8C2D77F3E4E1085AB59B2FEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = PickupReport/PickupReport.entitlements;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PickupReport/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit.dropitwidgets";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		AB52CB08E0FDF02BF6C67C33 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Debug;
+		};
+		C251D81345385F6A7299509F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pickup/Pickup.entitlements;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Pickup/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.yusufesenboga.dropit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		DBF5CD56667D6240FC30B9F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pickup/Pickup.entitlements;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Pickup/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.yusufesenboga.dropit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E2B28A362AAD7C58398C3BD2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50778595AA221B068518C8A3 /* Base.xcconfig */;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = PickupWidgets/PickupWidgets.entitlements;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = E3FG37H8X3;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PickupWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "--BUNDLE-PREFIX-.dropit.dropitwidgets";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1B427AF90B9686A357B06894 /* Build configuration list for PBXNativeTarget "Pickup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBF5CD56667D6240FC30B9F3 /* Debug */,
+				C251D81345385F6A7299509F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		640DC9EFD529235A8D9E2727 /* Build configuration list for PBXProject "Pickup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB52CB08E0FDF02BF6C67C33 /* Debug */,
+				5283471FF90C511CFE244FFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AA49C642C84CEF6FA3EBC152 /* Build configuration list for PBXNativeTarget "PickupReport" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D0FF7CE198C663093D6C009 /* Debug */,
+				8C2D77F3E4E1085AB59B2FEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BE7A50D1F381DF4E435214A7 /* Build configuration list for PBXNativeTarget "PickupWidgets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2B28A362AAD7C58398C3BD2 /* Debug */,
+				5A34050B3B791273D517CDBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		B747EAD6A8D7189EE159E1E4 /* XCLocalSwiftPackageReference "PickupCore" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = PickupCore;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6662B3E013FFAE9E82659D27 /* PickupCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B747EAD6A8D7189EE159E1E4 /* XCLocalSwiftPackageReference "PickupCore" */;
+			productName = PickupCore;
+		};
+		87EB20DD9B192E41176AA945 /* PickupCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B747EAD6A8D7189EE159E1E4 /* XCLocalSwiftPackageReference "PickupCore" */;
+			productName = PickupCore;
+		};
+		A61A6BFC546CF6D584D67E8C /* PickupCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B747EAD6A8D7189EE159E1E4 /* XCLocalSwiftPackageReference "PickupCore" */;
+			productName = PickupCore;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+}
